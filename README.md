@@ -2,6 +2,7 @@
 This is the second Android project namd Activity
 
 the process is as follows：
+
 03-25 23:28:04.636 2305-2305/com.example.i.activity D/Activity: onStart
 03-25 23:28:04.636 2305-2305/com.example.i.activity D/Activity: onResume
 03-25 23:28:04.756 2305-2305/com.example.i.activity D/EGL_emulation: eglMakeCurrent: 0xb8c909a0: ver 2 0
