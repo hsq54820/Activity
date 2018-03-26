@@ -13,5 +13,5 @@ the process is as follows：
 03-25 23:28:07.426 2305-2305/com.example.i.activity D/Activity: onPause 
 03-25 23:28:08.246 2305-2305/com.example.i.activity D/EGL_emulation: eglMakeCurrent: 0xb8c909a0: ver 2 0  
 03-25 23:28:08.246 2305-2305/com.example.i.activity D/Activity: onStop  
-03-25 23:28:08.246 2305-2305/com.example.i.activity D/Activity: onDestroy 
+03-25 23:28:08.246 2305-2305/com.example.i.activity D/Activity: onDestroy   
 03-25 23:28:08.246 2305-2305/com.example.i.activity D/EGL_emulation: eglMakeCurrent: 0xb8c909a0: ver 2 0  
